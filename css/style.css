@@ -1,0 +1,36 @@
+/*Global*/
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body{
+  background-color: bisque;
+}
+h2{
+  text-align: center;
+  color: cornflowerblue;
+  font-weight: bold;
+}
+
+.container {
+  margin: 60px auto;
+  text-align: center;
+  padding: 60px;
+  max-width: 1140px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  border: coral solid 2px;
+  border-radius: 10%;
+  color: brown;
+}
+
+button{
+  color: blueviolet;
+  padding: 10px;
+}
+
+.message{
+  padding: 20px;
+}
+
+
